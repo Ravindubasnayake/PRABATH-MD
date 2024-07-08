@@ -1,5 +1,5 @@
-const GITHUB_AUTH_TOKEN = "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"
-const BOT_NUMBER = "940701908397"
+const GITHUB_AUTH_TOKEN = "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"
+const BOT_NUMBER = "940717267602"
 
 
 module.exports = {
